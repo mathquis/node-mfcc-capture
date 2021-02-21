@@ -1,0 +1,9 @@
+[submodule "src/miniaudio"]
+	path = src/miniaudio
+	url = https://github.com/mackron/miniaudio.git
+[submodule "src/gist"]
+	path = src/gist
+	url = https://github.com/adamstark/Gist.git
+[submodule "src/fvad"]
+	path = src/fvad
+	url = https://github.com/dpirch/libfvad.git
